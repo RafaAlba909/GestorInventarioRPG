@@ -30,12 +30,12 @@
 ### Instalación y Ejecución
 
 1. Clona el repositorio:
-    git clone https://github.com/TU_USUARIO/GestorInventarioRPG.git
+    - git clone https://github.com/RafaAlba909/GestorInventarioRPG.git
    
 2. Entra en la carpeta del proyecto:
-    cd GestorInventarioRPG
+    - cd GestorInventarioRPG
 
 3. Ejecuta el programa:
-    python main.py
+    - python main.py
 
 
