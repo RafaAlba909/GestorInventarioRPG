@@ -1,0 +1,14 @@
+# Python
+*.pyc
+__pycache__/
+
+# Archivos de configuración
+*.log
+
+# Dependencias (si alguna vez las agregas)
+env/
+venv/
+
+# Archivos temporales
+*.swp
+*.swo
